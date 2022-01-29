@@ -1,1 +1,3 @@
-# WebGL-how-it-works
+# WebGL
+* How it works
+* Image Processing
