@@ -1,4 +1,5 @@
-
+// Wilson Tandya / 13519209
+// Kode modifikasi dari https://webglfundamentals.org/
 
 "use strict";
 
